@@ -3,6 +3,9 @@
 An AI Agent that converts speech into actionable tasks using LLMs.
 
 ---
+Demo Video: [https://youtu.be/nCn8jaKRF4c]
+Medium Blog: [https://medium.com/@amanphadke004/how-i-created-my-own-voice-controlled-ai-agent-2a6891a996df]
+---
 
 ## Features
 
