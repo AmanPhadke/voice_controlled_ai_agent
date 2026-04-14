@@ -155,18 +155,6 @@ python app.py
 
 ---
 
-## Demo
-
-(Add YouTube link here)
-
----
-
-## Article
-
-(Add Medium / Dev.to link here)
-
----
-
 ## 👨‍💻 Author
 
 **Aman Phadke**  
